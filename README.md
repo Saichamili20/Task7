@@ -9,7 +9,7 @@ We connect to an SQLite database, run SQL queries to summarize the data, and vis
 ---
 
 ## Tools & Libraries
-- **Python** (>=3.8)
+- **Python** (pandas,matplotlib)
 - **SQLite** (built into Python via `sqlite3`)
 - **pandas** (for data handling)
 - **matplotlib** (for visualization)
